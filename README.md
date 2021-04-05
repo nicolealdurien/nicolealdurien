@@ -2,12 +2,12 @@
 
 #### I'm Nicole, a code newbie from Saint Louis, Missouri, currently living in Atlanta, Georgia.
 
-----
+
 
 ### 🌎&nbsp;&nbsp;Find Me Around The Web
 <a href="https://www.linkedin.com/in/nicole.aldurien/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:nicole.aldurien@gmail.com?subject=Olá%20Nicole%20Aldurien"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.twitter.com/in/nicolealdurien/"><img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 
-----
+
 
 ### <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/gear_2699.png" width="20" alt="gear" />&nbsp;&nbsp;My Languages & Tools
 
@@ -19,7 +19,8 @@
 ![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2abdba)
 ![](https://img.shields.io/badge/Hosting-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=2abdba)
 
-----
+
+
 
 ### &#x1f4c8;&nbsp;&nbsp;My GitHub Stats
 
