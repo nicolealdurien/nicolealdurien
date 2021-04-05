@@ -25,10 +25,10 @@
 ### &#x1f4c8;&nbsp;&nbsp;My GitHub Stats
 
 <a href="https://github.com/nicolealdurien/nicolealdurien">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolealdurien&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolealdurien&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2abdba&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/nicolealdurien/nicolealdurien">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicolealdurien&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Nicole's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicolealdurien&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2abdba&bg_color=1d1f21" alt="Nicole's GitHub Stats" />
 </a>
 
 <!--
