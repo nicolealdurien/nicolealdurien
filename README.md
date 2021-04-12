@@ -18,6 +18,8 @@
 ![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=Vim&logoColor=white&color=2abdba)
 ![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2abdba)
 ![](https://img.shields.io/badge/Hosting-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=2abdba)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2abdba)
+![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=2abdba)
 
 
 
