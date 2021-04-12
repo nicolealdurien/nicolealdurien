@@ -20,18 +20,9 @@
 ![](https://img.shields.io/badge/Hosting-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=2abdba)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2abdba)
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=2abdba)
-
-
-
-
-### &#x1f4c8;&nbsp;&nbsp;My GitHub Stats
-
-<a href="https://github.com/nicolealdurien/nicolealdurien">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolealdurien&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2abdba&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/nicolealdurien/nicolealdurien">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicolealdurien&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2abdba&bg_color=1d1f21" alt="Nicole's GitHub Stats" />
-</a>
+![](https://img.shields.io/badge/Framework-Express-informational?style=flat&logo=express&logoColor=white&color=2abdba)
+![](https://img.shields.io/badge/Library-React-informational?style=flat&logo=react&logoColor=white&color=2abdba)
+![](https://img.shields.io/badge/Library-Redux-informational?style=flat&logo=redux&logoColor=white&color=2abdba)
 
 <!--
 **nicolealdurien/nicolealdurien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
