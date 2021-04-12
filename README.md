@@ -8,6 +8,14 @@
 <a href="https://www.linkedin.com/in/nicole.aldurien/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:nicole.aldurien@gmail.com?subject=Olá%20Nicole%20Aldurien"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.twitter.com/in/nicolealdurien/"><img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 
 
+### My Portfolio
+<a href="https://nicole-aldurien.surge.sh"><img src="https://raw.githubusercontent.com/nicolealdurien/nicolealdurien/main/portfolio.png" /></a> 
+
+
+### My Blog
+<a href="https://dev.to/nicolealdurien">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Nicole Aldurien's DEV Community Profile" height="30" width="30">&nbsp;&nbsp;&nbsp;dev.to/nicolealdurien
+</a>
 
 ### <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/gear_2699.png" width="20" alt="gear" />&nbsp;&nbsp;My Languages & Tools
 
