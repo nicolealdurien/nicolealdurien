@@ -21,7 +21,8 @@
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=PYTHON&logoColor=white&color=2abdba)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2abdba)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=2abdba)
+![](https://img.shields.io/badge/RDBMS-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=2abdba)
+![](ttps://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=ffb400)
 ![](https://img.shields.io/badge/Platform-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=2abdba)
 ![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=Vim&logoColor=white&color=2abdba)
 ![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2abdba)
