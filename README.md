@@ -1,6 +1,6 @@
 ## 👋&nbsp;&nbsp;Welcome! 
 
-#### I'm Nicole, a code newbie from Saint Louis, Missouri, currently living in Atlanta, Georgia. I worked for over six years as a clinical laboratory scientist and am in the midst of transitioning into development. I recently graduated from DigitalCrafts' coding bootcamp for full-stack web development, and I'm seeking out the next step on my journey. Aside from applying to junior-level positions and brushing up on data structures and algorithms, I have just started learning Ruby!
+#### I'm Nicole, a code newbie from Saint Louis, Missouri, currently living in Atlanta, Georgia. I worked for over six years as a clinical laboratory scientist and am in the midst of transitioning into development. I recently graduated from DigitalCrafts' coding bootcamp for full-stack web development, and I'm currently an Engineering Intern at Lumen Learning!
 
 
 ### 🌎&nbsp;&nbsp;Find Me Around The Web
