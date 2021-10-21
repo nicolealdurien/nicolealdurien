@@ -1,6 +1,10 @@
 ## 👋&nbsp;&nbsp;Welcome! 
 
-#### I'm an enthusiastic junior software engineer soaking up all the knowledge I can about my new field! I am in my first year with the amazing Lumen Learning, whose dev team was willing to take a chance on a career changer like me. After 6+ years in healthcare working as a medical laboratory scientist and specialist in blood banking, I saw how software enabled the hospitals and laboratories I worked for to care for so many more patients than we could without it. This made me want to apply my drive to help others into learning how to build and support similar at-scale solutions, so I made the leap and signed up for a full-stack development bootcamp. Now I am helping to maintain existing tools and develop new ones for an EdTech company whose work helps over 200k low-income/non-traditional students each term. I am an unabashed nerd who is always excited to keep learning, growing, and doing work that makes the world a better place.
+#### I'm an enthusiastic junior software engineer soaking up all the knowledge I can about my new field! I am in my first year with the amazing Lumen Learning, whose dev team was willing to take a chance on a career changer like me. 
+
+#### After 6+ years in healthcare working as a medical laboratory scientist and specialist in blood banking, I saw how software enabled the hospitals and laboratories I worked for to care for so many more patients than we could without it. This made me want to apply my drive to help others into learning how to build and support similar at-scale solutions, so I made the leap and signed up for a full-stack development bootcamp. 
+
+#### Now I am helping to maintain existing tools and develop new ones for an EdTech company whose work helps over 200k low-income/non-traditional students each term. I am an unabashed nerd who is always excited to keep learning, growing, and doing work that makes the world a better place.
 
 
 ### 🌎&nbsp;&nbsp;Find Me Around The Web
