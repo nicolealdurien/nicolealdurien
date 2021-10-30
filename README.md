@@ -1,6 +1,6 @@
 ## 👋&nbsp;&nbsp;Welcome! 
 
-#### I'm an enthusiastic junior software engineer soaking up all the knowledge I can about my new field! I am in my first year with the amazing Lumen Learning, whose dev team was willing to take a chance on a career changer like me. 
+#### I'm a junior software engineer soaking up all the knowledge I can about my new field! I am in my first year with the amazing Lumen Learning. 
 
 #### After more than six years in healthcare working as a medical laboratory scientist and specialist in blood banking, I saw how software enabled the hospitals and laboratories I worked for to care for so many more patients than we could without it. This made me want to apply my drive to help others into learning how to build and support similar at-scale solutions, so I made the leap and signed up for a full-stack development bootcamp. 
 
