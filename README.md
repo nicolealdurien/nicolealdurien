@@ -8,7 +8,7 @@
 
 
 ### 🌎&nbsp;&nbsp;Find Me Around The Web
-<a href="https://www.linkedin.com/in/nicole.aldurien/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:nicole.aldurien@gmail.com?subject=Olá%20Nicole%20Aldurien"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.twitter.com/in/nicolealdurien/"><img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="https://www.linkedin.com/in/nicole.aldurien/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:nicole.aldurien@gmail.com?subject=Olá%20Nicole%20Aldurien"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 
 ### My Portfolio
