@@ -14,12 +14,6 @@
 ### My Portfolio
 <a href="https://nicole-aldurien.surge.sh"><img src="https://raw.githubusercontent.com/nicolealdurien/nicolealdurien/main/portfolio.png" /></a> 
 
-
-### My Blog
-<a href="https://dev.to/nicolealdurien">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Nicole Aldurien's DEV Community Profile" height="30" width="30">&nbsp;&nbsp;&nbsp;dev.to/nicolealdurien
-</a>
-
 ### <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/gear_2699.png" width="20" alt="gear" />&nbsp;&nbsp;My Languages & Tools
 
 
