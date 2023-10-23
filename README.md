@@ -1,10 +1,13 @@
 ## 👋&nbsp;&nbsp;Welcome! 
 
-#### I'm a junior software engineer soaking up all the knowledge I can about my field! I am in my second year with the amazing Lumen Learning. 
+### About Me
 
-#### After more than six years in healthcare working as a medical laboratory scientist and specialist in blood banking, I saw how software enabled the hospitals and laboratories I worked for to care for so many more patients than we could without it. This made me want to apply my drive to help others toward learning how to build and support similar at-scale solutions, so I made the leap and signed up for a full-stack development bootcamp. 
+Software engineer at Lumen Learning (EdTech) since 2021, helping provide affordable courseware to over 100,000 low-income/underrepresented students each term. 
 
-#### Now I am helping to maintain existing tools and develop new ones for Lumen Learning, an EdTech company whose work helps over 150,000 low-income/non-traditional students each term. I am an unabashed nerd who is always excited to keep learning, growing, and doing work that makes the world a better place.
+Before changing careers, I was a medical laboratory scientist/specialist in blood banking ([MLS](https://en.wikipedia.org/wiki/Medical_laboratory_scientist) / [SBB](https://www.aabb.org/education/certificate-programs/specialist-in-blood-bank-technology-and-other-certifications#:~:text=SBBs%20carry%20out%20all%20operations,such%20as%20education%20and%20research.)).
+
+I am an unabashed nerd who is always excited to keep learning, growing, and doing work that makes the world a better place.
+
 
 
 ### 🌎&nbsp;&nbsp;Find Me Around The Web
@@ -14,11 +17,15 @@
 ### My Portfolio
 <a href="https://nicole-aldurien.surge.sh"><img src="https://raw.githubusercontent.com/nicolealdurien/nicolealdurien/main/portfolio.png" /></a> 
 
-### <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/gear_2699.png" width="20" alt="gear" />&nbsp;&nbsp;My Languages & Tools
+### My Languages & Tools
 
 
 ![](https://img.shields.io/badge/Library-React-informational?style=flat&logo=react&logoColor=white&color=2abdba)
+![](https://img.shields.io/badge/Library-Vue-informational?style=flat&logo=vue&logoColor=white&color=2abdba)
+![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=2abdba)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2abdba)
+![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=2abdba)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2abdba)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2abdba)
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=2abdba)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=PYTHON&logoColor=white&color=2abdba)
