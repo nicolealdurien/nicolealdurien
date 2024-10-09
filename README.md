@@ -15,7 +15,7 @@ I am an unabashed nerd who is always excited to keep learning, growing, and doin
 
 
 ### My Portfolio
-<a href="https://nicole-aldurien.surge.sh"><img src="https://raw.githubusercontent.com/nicolealdurien/nicolealdurien/blob/main/new_portfolio.png" /></a> 
+<a href="https://nicole-aldurien.surge.sh"><img src="https://raw.githubusercontent.com/nicolealdurien/nicolealdurien/main/new_portfolio.png" /></a> 
 
 ### My Languages & Tools
 
