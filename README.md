@@ -2,7 +2,7 @@
 
 ### About Me
 
-Software engineer with 3+ years of professional experience, most recently for Lumen Learning, an EdTech startup helping provide affordable college courseware to over 150,000 low-income/underrepresented students each term. 
+Software engineer with 3+ years of professional experience with Lumen Learning, an EdTech startup helping provide affordable college courseware to over 150,000 low-income/underrepresented students each term. 
 
 Before changing careers, I was a medical laboratory scientist/specialist in blood banking ([MLS](https://en.wikipedia.org/wiki/Medical_laboratory_scientist) / [SBB](https://www.aabb.org/education/certificate-programs/specialist-in-blood-bank-technology-and-other-certifications#:~:text=SBBs%20carry%20out%20all%20operations,such%20as%20education%20and%20research.)).
 
