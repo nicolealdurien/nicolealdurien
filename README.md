@@ -14,11 +14,8 @@ I am an unabashed nerd who is always excited to keep learning, growing, and doin
 <a href="https://www.linkedin.com/in/nicole.aldurien/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:nicole.aldurien@gmail.com?subject=Olá%20Nicole%20Aldurien"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 
-### My Portfolio
-<a href="https://nicole-aldurien.surge.sh"><img src="https://raw.githubusercontent.com/nicolealdurien/nicolealdurien/main/new_portfolio.png" /></a> 
 
 ### My Languages & Tools
-
 
 ![](https://img.shields.io/badge/Library-React-informational?style=flat&logo=react&logoColor=white&color=2abdba)
 ![](https://img.shields.io/badge/Library-Vue-informational?style=flat&logo=vue&logoColor=white&color=2abdba)
