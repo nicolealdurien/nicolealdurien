@@ -2,13 +2,13 @@
 
 ### About Me
 
-Software engineer with 3+ years of professional experience with Lumen Learning, an EdTech startup helping provide affordable college courseware to over 150,000 low-income/underrepresented students each term. 
+I'm a frontend-focused full-stack software engineer with 3+ years of experience building and maintaining production-ready applications in the EdTech space. Most recently, I was a Technical Lead at Lumen Learning, where I worked to deliver tools that support over 150,000 low-income and first-generation students each term.
 
-Before changing careers, I was a medical laboratory scientist/specialist in blood banking ([MLS](https://en.wikipedia.org/wiki/Medical_laboratory_scientist) / [SBB](https://www.aabb.org/education/certificate-programs/specialist-in-blood-bank-technology-and-other-certifications#:~:text=SBBs%20carry%20out%20all%20operations,such%20as%20education%20and%20research.)).
+I’m especially passionate about creating intuitive, accessible user interfaces and collaborating across disciplines, from UX to product to backend, to ship features that matter. I’ve led front-end modernization efforts, built developer tooling to streamline workflows, and contributed to back-end data structures in a fast-paced, mission-driven environment.
 
-I am an unabashed nerd who is always excited to keep learning, growing, and doing work that makes the world a better place.
+Before tech, I worked in clinical labs where precision and impact were non-negotiable. That same drive now fuels my work in software: building systems that are clear, reliable, and make people’s lives better.
 
-
+Always learning. Always shipping. Always looking to make an impact that helps people!
 
 ### 🌎&nbsp;&nbsp;Find Me Around The Web
 <a href="https://www.linkedin.com/in/nicole.aldurien/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:nicole.aldurien@gmail.com?subject=Olá%20Nicole%20Aldurien"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
