@@ -2,7 +2,7 @@
 
 ### About Me
 
-I'm a frontend-focused full-stack software engineer with 3+ years of experience building and maintaining production-ready applications in the EdTech space. Most recently, I was a Software Engineer at Lumen Learning, where I worked to deliver tools that support over 150,000 low-income and first-generation students each term.
+I'm a front-end software engineer with 3+ years of experience building and maintaining production-ready applications in the EdTech space. Most recently, I was a Software Engineer at Lumen Learning, where I worked to deliver tools that support over 150,000 low-income and first-generation students each term.
 
 I’m especially passionate about creating intuitive, accessible user interfaces and collaborating across disciplines, from UX to product to backend, to ship features that matter. I’ve led front-end modernization efforts, built developer tooling to streamline workflows, and contributed to back-end data structures in a fast-paced, mission-driven environment.
 
